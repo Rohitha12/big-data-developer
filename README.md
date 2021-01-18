@@ -7,4 +7,5 @@ I am from a town named Miryalaguda, where one can find large number of rice mill
 I would like to see myself as a Systems Engineer.I am interested to do any kind of work which ensures me to reach my goal.
 ## Links:
 * LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/rohitha-reddy-meda-657128174/)  
-* GitHub Profile: [GitHub](https://github.com/rohitha12)
+* GitHub Profile: [GitHub](https://github.com/rohitha12)  
+![](https://github.com/Rohitha12/big-data-developer/blob/main/image.jpeg)
